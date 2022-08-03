@@ -6,4 +6,4 @@ The comments will be added with solutions for better understanding.
 ### Problems & Solutions
 | # | Title | Solution -- Time Complexity |
 |---| ----- | ----------------------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [1. Brute Force (Very Simple) Java](https://github.com/Yousuf-Rehman/leetcode/blob/main/Codes/0001_Two_Sum/java/1.Brute-Force-Very-Simple.java) -- O(n^2) <br> [2. Brute Force (Optimized) Java](https://github.com/Yousuf-Rehman/leetcode/blob/main/Codes/0001_Two_Sum/java/2.Brute-Force-Optimized.java) -- O(n^2)|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [1. Brute Force (Very Simple) Java](https://github.com/Yousuf-Rehman/leetcode/blob/main/Codes/0001_Two_Sum/java/1.Brute-Force-Very-Simple.java) -- O(n^2) <br> [2. Brute Force (Optimized) Java](https://github.com/Yousuf-Rehman/leetcode/blob/main/Codes/0001_Two_Sum/java/2.Brute-Force-Optimized.java) -- O(n^2) <br> [3. Hash Maps (Simple) Java](https://github.com/Yousuf-Rehman/leetcode/blob/main/Codes/0001_Two_Sum/java/3.HashMap-Simple.java) -- O(n)<br> |
