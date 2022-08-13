@@ -22,7 +22,7 @@ class Solution {
                 return new int[] {i, map.get(anotherElement)};
             }
 			
-			map.put(nums[i], i);
+            map.put(nums[i], i);
         }
         
         return null;//no solution
